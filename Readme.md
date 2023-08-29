@@ -1,6 +1,6 @@
 # Discord Docker controller
 
-## This is a simple discord bot that allows you to control your docker containers from discord
+##### This is a simple discord bot that allows you to control your docker containers from discord
 
 ## Installation
 
