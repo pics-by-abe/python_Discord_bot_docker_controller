@@ -1,6 +1,6 @@
 # Discord Docker controller
 
-##### This is a simple discord bot that allows you to control your docker containers from discord
+This is a simple discord bot that allows you to control your docker containers from discord
 
 ## Installation
 
@@ -19,7 +19,17 @@
 6. Run **```/help```** to see the available commands
 7. Enjoy!
 
+### Example images
+
+![Containers Image](/img/containers.png)
+
+![Container Image](/img/container.png)
+
+![Logs Image](/img/log.png)
+
 ### Coming soon
 
 - [ ] CPU, RAM and Network usage
 - [ ] Create containers (with compose support)
+
+#### Feel free to contribute to this project
